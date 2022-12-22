@@ -10,7 +10,7 @@
     "axios": "^0.21.1",
     "bcrypt": "^5.0.0",
     "dateformat": "^3.0.3",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "loadtest": "^5.0.4",
     "serverless-dynamodb-autoscaling": "^0.6.2",
     "serverless-mysql": "^1.5.4",
